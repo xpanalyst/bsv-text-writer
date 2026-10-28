@@ -1,0 +1,17 @@
+# --- SEKRETY: nigdy do repozytorium ---
+# Aplikacja zapisuje w config.json klucz prywatny WIF jawnym tekstem.
+config.json
+*.wif
+*.key
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Edytory i system ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

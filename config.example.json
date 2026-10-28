@@ -1,0 +1,9 @@
+{
+  "chain": "testnet",
+  "wif": "",
+  "message": "",
+  "pay_enabled": true,
+  "pay_address": "mkEUEycqYbDxvkE5PB9RfaiJ9XJMZVHPAD",
+  "pay_amount": 333,
+  "fee_sat_per_kb": 100
+}
