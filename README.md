@@ -112,4 +112,4 @@ config.example.json   wzór konfiguracji (bez klucza)
 
 ## Licencja
 
-Do uzupełnienia (np. MIT). Oprogramowanie jest udostępniane bez gwarancji, a używasz go na własną odpowiedzialność.
+MIT. Oprogramowanie jest udostępniane bez gwarancji, a używasz go na własną odpowiedzialność.
