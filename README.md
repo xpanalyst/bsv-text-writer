@@ -7,6 +7,8 @@ Działa na **testnecie** i **mainnecie**, a sieć przełączasz jednym kliknięc
 > **Projekt do nauki i testów.** Klucz prywatny jest zapisywany w pliku jawnym tekstem. Używaj go
 > na testnecie albo z kluczem, na którym nie ma ważnych środków. Szczegóły w sekcji [Bezpieczeństwo](#bezpieczeństwo).
 
+![Okno aplikacji](Zrzut ekranu 2026-10-29 133445.png)
+
 ## Co potrafi
 
 - **Przełącznik sieci** testnet / mainnet. Kolorowy znacznik w nagłówku pokazuje, na której sieci pracujesz.
